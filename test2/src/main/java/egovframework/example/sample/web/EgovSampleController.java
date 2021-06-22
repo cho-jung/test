@@ -57,6 +57,15 @@ import org.springmodules.validation.commons.DefaultBeanValidator;
 @Controller
 public class EgovSampleController {
 
+	
+	
+	// TEST
+	
+	
+	
+	
+	
+	
 	/** EgovSampleService */
 	@Resource(name = "sampleService")
 	private EgovSampleService sampleService;
